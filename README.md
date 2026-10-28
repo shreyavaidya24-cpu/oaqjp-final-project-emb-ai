@@ -1,4 +1,4 @@
-# Emotion Detector — IBM Watson NLP Final Project
+#  Final Project
 
 An AI-powered web application that analyzes the emotion of any text using the
 IBM Watson NLP **Emotion Prediction** model. It predicts the intensity of
